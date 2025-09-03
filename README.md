@@ -1,37 +1,105 @@
-# 💫 Hi 👋, I'm Md Aashik Rain
-**🚀 Aspiring Software Developer | MERN Stack | Java | DSA | UI/UX | System Design Learning ( LLD ) | C/C++ | Python | BCA’26 | BCA-8.26 CGPA**
+<h1 align="center">Hey Everyone 👋, I'm Md Aashik Rain</h1>
 
-Email Me 👉 ✉️ **aashikmd2256@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Md%20Aashik%20Rain&fontSize=45&animation=fadeIn&desc=Aspiring%20Software%20Developer%20|%20MERN%20Stack%20|%20Java%20|%20DSA%20|%20System%20Design" alt="Profile Banner">
+</div>
 
-- 🌱 **I’m currently learning:**  System Design 
-- 📫 **How to reach me:** aashikmd2256@gmail.com
-- ⚡ **Fun fact:** Every greate developer you know was once a beginner. Keep Coding
+<h2 align="center">🚀 Aspiring Software Developer 🚀 </h2>
 
-## 🔗 I am a  MERN Stack Developer. 😊😊
+<p align="center">
+  <a href="https://github.com/MdAashikRain007">
+    <img src="https://img.shields.io/github/followers/MdAashikRain007?label=Follow&style=social" />
+  </a>
+  <a href="https://leetcode.com/u/Aashik007/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=social&logo=leetcode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/aashikmy3qm/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=social&logo=geeksforgeeks" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-aashik-rain/">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Aashik%20Rain-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Aashik Rain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashikmd2256@gmail.com) 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MdAashikRain007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<!-- Snake Game Repo View -->
+- 👨‍💻 All of my projects are available at [https://github.com/MdAashikRain007](https://github.com/MdAashikRain007)  
+- 🌱 Currently learning **System Design (LLD & HLD)**  
+- 💬 Ask me about **MERN Stack, Java, DSA, System Design**  
+- 📫 Reach me at **aashikmd2256@gmail.com**  
+- ⚡ Fun fact: *Every great developer you know was once a beginner. Keep Coding.*  
 
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-aashik-rain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Aashik007/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/aashikmy3qm/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  
+  <!-- Web Dev -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="40" height="40"/>
+  
+  <!-- Databases & Hosting -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQGVwLmT0GX9pw/articleshare-shrink_800/B56Zb.fKmbHgAI-/0/1748026305197?e=2147483647&v=beta&t=3euZojaLP5crELtHOg9Lf7b_Po0q5PKY65vKAe9HKIQ" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" width="40" height="40"/>
+  
+  <!-- DevOps / Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  
+</p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAashikRain007&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdAashikRain007&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+
+
+### 🔝 Top Contributed Repos  
+![](https://github-contributor-stats.vercel.app/api?username=MdAashikRain007&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
+### 🐍 Contribution Snake  
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
+### 👨‍💼 About Me & 🤝 Open to Collaborations  
 
+🎤 Available for **Coding Bootcamps / Tech Talks / Webinars**  
+🤝 Open to **Full-stack Project Collaborations / Hackathons**  
+💼 Exploring **MERN Development, System Design, and Cloud Technologies**  
+📧 Let’s chat: [aashikmd2256@gmail.com](mailto:aashikmd2256@gmail.com)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdAashikRain007&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MdAashikRain007&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAashikRain007&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Md Aashik Rain) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *"Code. Debug. Learn. Repeat. Building myself one commit at a time 🚀"*
